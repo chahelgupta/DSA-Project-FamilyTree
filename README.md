@@ -1,5 +1,8 @@
 # Family Tree Generator
 
+This project is co-owned by: [@chahelgupta](https://www.github.com/chahelgupta) [@AmishiDesai04](https://www.github.com/AmishiDesai04) 
+
+
 ## Problem Statement
 
 Develop a C++ program for building and visualizing a hierarchical family tree. The program should allow users to interactively add family members, specify their parent-child relationships, and visualize the family tree's structure. The program must handle scenarios where users attempt to add a family member to a specified parent who may or may not exist within the tree.
