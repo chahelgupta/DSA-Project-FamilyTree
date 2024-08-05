@@ -1,6 +1,6 @@
 # Family Tree Generator
 
-This project is co-owned by: [@chahelgupta](https://www.github.com/chahelgupta) [@AmishiDesai04](https://www.github.com/AmishiDesai04) 
+This project is co-owned by: [@chahelgupta](https://www.github.com/chahelgupta) [@amishidesai](https://www.github.com/AmishiDesai04) 
 
 
 ## Problem Statement
